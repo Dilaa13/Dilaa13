@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charith Dhananjaya</h1>
-<h3 align="center">A highly motivated and enthusiastic in embedded systems and intelligent automation. Passionate about solving real world challenges through innovative software and hardware integration, ensuring efficiency, reliability, and user centric design. Continuously driven by problem solving, cutting edge technology, and hands on development, with a strong commitment to learning and technological advancement from Sri Lanka.</h3>
+<h3 align="center">A highly motivated and enthusiastic in embedded systems and intelligent automation. Passionate about solving realworld challenges through innovative software and hardware integration, ensuring efficiency, reliability, and user centric design. Continuously driven by problem solving, cutting edge technology, and hands on development, with a strong commitment to learning and technological advancement from Sri Lanka.</h3>
 
 - 🌱 I’m currently learning **Electronics & IT in University of Colombo**
 
