@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Charith Dhananjaya</h1>
 
-![Welcome to My Profile](https://github.com/Dilaa13/Dilaa13/raw/main/src/WorkForMe.gif)
+<p align="center">
+  <img src="https://github.com/Dilaa13/Dilaa13/raw/main/src/WorkForMe.gif" width="100%" style="border: 5px solid #f0f0f0; border-radius: 10px;" />
+</p>
+
 
 <h3 align="center">🚀 Passionate about Automation | IoT | Machine Learning</h3>
 <h4 align="center">Building Scalable Solutions • Crafting Elegant Code • Exploring Cutting Edge Technologies</h4>
