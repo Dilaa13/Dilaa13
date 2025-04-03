@@ -39,9 +39,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  
   <!-- Add any new language icons from your image here -->
 </p>
+
+#### 🔬 **Embedded Systems & IoT Development**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/esp/esp-original.svg" width="40" height="40"/>
+  <!-- Add more embedded and IoT development tools/icons here -->
+</p>
+
 
 #### 🖥️ **Frontend Development**
 <p align="left">
@@ -57,7 +67,6 @@
 #### 🔧 **Backend & Databases**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
@@ -77,10 +86,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="40" height="40"/>
   <!-- Add testing and development tools from your image here -->
 </p>
 
@@ -89,7 +95,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
   <!-- Add any design tools from your image here -->
 </p>
----
+
 
 ### 📊 **GitHub Stats**
 <p align="left">
