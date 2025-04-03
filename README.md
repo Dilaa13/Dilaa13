@@ -1,6 +1,9 @@
-![Welcome to My Profile](https://github.com/Dilaa13/Dilaa13/raw/main/src/WorkForMe.gif)
+
 
 <h1 align="center">Hi 👋, I'm Charith Dhananjaya</h1>
+
+![Welcome to My Profile](https://github.com/Dilaa13/Dilaa13/raw/main/src/WorkForMe.gif)
+
 <h3 align="center">🚀 Passionate about Automation | IoT | Machine Learning</h3>
 <h4 align="center">Building Scalable Solutions • Crafting Elegant Code • Exploring Cutting Edge Technologies</h4>
 
@@ -85,13 +88,14 @@
 
 ### 📊 **GitHub Stats**
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ruvindi-matharaarachchi&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruvindi-matharaarachchi&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dilaa13&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilaa13&theme=radical" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruvindi-matharaarachchi&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilaa13&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
