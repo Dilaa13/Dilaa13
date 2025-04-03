@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Charith Dhananjaya</h1>
 
 <p align="center">
-  <img src="https://github.com/Dilaa13/Dilaa13/raw/main/src/WorkForMe.gif" width="100%" height="300px" style="border: 5px solid #f0f0f0; border-radius: 10px;" />
+  <img src="https://github.com/Dilaa13/Dilaa13/raw/main/src/AIimage.gif" width="100%" height="300px" style="border: 5px solid #f0f0f0; border-radius: 10px;" />
 </p>
 
 
